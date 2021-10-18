@@ -1,0 +1,6 @@
+﻿  PraefixSumme.cpp
+c:\johannes\hdm\2.semester\parallel processes\präfixsummebasis\praefixsumme.cpp(55): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\johannes\hdm\2.semester\parallel processes\präfixsummebasis\praefixsumme.cpp(56): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\johannes\hdm\2.semester\parallel processes\präfixsummebasis\praefixsumme.cpp(101): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+  PraefixSumme.vcxproj -> C:\johannes\HDM\2.semester\Parallel Processes\PräfixSummeBasis\Debug\PraefixSumme.exe
+          1 file(s) copied.
